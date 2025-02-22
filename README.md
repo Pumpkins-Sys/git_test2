@@ -1,1 +1,1 @@
-# git_test2
+This my first web development project. I am first trying to learn git basis.
